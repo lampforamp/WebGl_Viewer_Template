@@ -1,7 +1,7 @@
 // Import Libraries
 
-import * as THREE from 'node_modules/three/build/three.module.js';
-import { OrbitControls } from 'node_modules/three/examples/jsm/controls/OrbitControls.js';
+import * as THREE from './node_modules/three/build/three.module.js';
+import { OrbitControls } from './node_modules/three/examples/jsm/controls/OrbitControls.js';
 
 // Setting a canvas
 const canvas = document.querySelector('canvas.webgl')
