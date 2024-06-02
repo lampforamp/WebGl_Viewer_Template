@@ -1,6 +1,6 @@
 // Import Libraries
 
-import * as THREE from 'three'
+import * as THREE from '../node_modules/three'
 import {OrbitControls} from 'three/examples/jsm/controls/OrbitControls.js'
 
 // Setting a canvas
