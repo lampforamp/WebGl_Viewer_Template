@@ -1,7 +1,7 @@
 export default {
     root: './',
     publicDir: '../static/',
-    base: './',
+    base: '/WebGl_Viewer_Template/',
     server:
     {
         host: true, // Open to local network and display URL
